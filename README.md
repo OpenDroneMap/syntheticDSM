@@ -1,5 +1,6 @@
 # syntheticDSM
-Synthetic georeferenced DSM files to compute volume calculation accuracy
+
+Synthetic georeferenced DSM files to compute volume calculation accuracy, generated using Blender.
 
 ![image](https://user-images.githubusercontent.com/1951843/205979188-99edc627-b654-40fa-93fa-9fac38b202fa.png)
 
